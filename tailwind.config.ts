@@ -13,7 +13,9 @@ const config: Config = {
         foreground: "var(--foreground)",
       },
     },
+    space: {},
   },
   plugins: [],
 };
+
 export default config;
